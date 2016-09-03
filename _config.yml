@@ -1,19 +1,4 @@
-name: God Sex Money
-favicon: null
-layout_spectrum: 0.9074360344093293
 typography_spectrum: 0.5598165336996317
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.0035779012832790613
   saturation: 0.45182390534318984
   rhythmicContrast: 0.9752752284985036
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9074360344093293
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: God Sex Money
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: GOD.SEX.MONEY
 purpose: []
